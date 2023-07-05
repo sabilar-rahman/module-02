@@ -1,0 +1,35 @@
+.header{
+    height: 300px;
+    background-image: url('../image/OIP.jpeg');
+    
+    
+    
+}
+
+h3{
+    font-size: 30px;
+    text-decoration: overline;
+    font-family: 'Courier New', Courier, monospace;
+}
+.second{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+
+.blog{
+    margin: 40px;
+    border: 10px solid tomato;
+    box-shadow: 10px 10px 10px teal;
+}
+.incidunt{
+    border: 2px solid purple;
+    display: block;
+    padding: 20px;
+    display: inline-block;
+}
+
+.dolor{
+    border: 2px solid violet;
+    height: 60px;
+    display: block;
+}
